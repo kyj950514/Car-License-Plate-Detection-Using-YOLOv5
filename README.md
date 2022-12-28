@@ -10,4 +10,4 @@ YOLOv5를 이용하여 차량 번호판을 인식하는 프로젝트입니다.
 
 * 결과
 
-<img src="./images/N187.jpeg" />
+<img src="./images/detection.png" />
